@@ -96,8 +96,8 @@
 
 ## Github status
 <div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaikhtausif&show_icons=true&locale=en" alt="shaikhtausif" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaikhtausif&" alt="shaikhtausif" width="50%" /></p>
+<p>&nbsp;<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=shaikhtausif&show_icons=true&locale=en" alt="shaikhtausif" />
+<img align="center" width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=shaikhtausif&" alt="shaikhtausif" width="50%" /></p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaikhtausif&show_icons=true&locale=en&layout=compact" alt="shaikhtausif"  /></div>
 
